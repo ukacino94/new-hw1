@@ -2,6 +2,9 @@
 
 Note: The README page is the only page you can interact, so you may want to include all resources link on this page :)
 
+Go to Settings -> GitHub Pages -> Source: Master branch to deploy your GitHub page. 
+If there's no index.html file in the main folder (which should be the case), the content of **this** README would be in your page.
+
 ---
 
 ### Demo and Video
@@ -14,8 +17,4 @@ The elevator in the ECE building:
 ![Elevator_Image_Huyen](https://i.imgur.com/D8NAp0d.jpg)
 
 ![Elevator_Gif_Huyen](https://media.giphy.com/media/fAbByUYxLUGE6ygSvZ/giphy.gif)
-
-### Video: Cloudy
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
-
 
