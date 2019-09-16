@@ -3,7 +3,10 @@
 Note: The README page is the only page you can interact, so you may want to include all resources link on this page :)
 
 ---
+
+### Demo and Video
 [Demo](https://nnhuyen.github.io/HCI-HW1-Elevator/demo.html)
+[Video](https://www.youtube.com/watch?v=uilkmUoXoLU)
 
 ### Example of Elevator
 
@@ -13,11 +16,6 @@ The elevator in the ECE building:
 ![Elevator_Gif_Huyen](https://media.giphy.com/media/fAbByUYxLUGE6ygSvZ/giphy.gif)
 
 ### Video: Cloudy
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
-### Demo
-[Demo](https://nnhuyen.github.io/HCI-HW1-Elevator/demo.html)
+
