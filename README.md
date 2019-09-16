@@ -1,4 +1,4 @@
-# Sample report
+# Report
 
 Note: The README page is the only page you can interact, so you may want to include all resources/links on this page :)
 
@@ -9,6 +9,7 @@ If there's no index.html file in the main folder (which should be the case), the
 
 ### Demo and Video
 [Demo](https://nnhuyen.github.io/HCI-HW1-Elevator/demo.html)
+
 [Video](https://www.youtube.com/watch?v=uilkmUoXoLU)
 
 ### Example of Elevator
