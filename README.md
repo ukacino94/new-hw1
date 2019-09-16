@@ -12,7 +12,7 @@ The elevator in the ECE building:
 
 ![Elevator_Gif_Huyen](https://media.giphy.com/media/fAbByUYxLUGE6ygSvZ/giphy.gif)
 
-#### Video: Cloudy
+### Video: Cloudy
  <iframe width="560" height="315"
 src="https://www.youtube.com/embed/uilkmUoXoLU" 
 frameborder="0" 
