@@ -4,7 +4,7 @@
 
 - The README page is the only page you can interact, so you may want to include all resources/links on this page :)
 
-- Presentation page: Go to Settings -> GitHub Pages -> Source: Master branch, to deploy your GitHub page from README. 
+- **Presentation page:** Go to Settings -> GitHub Pages -> Source: Master branch, to deploy your GitHub page from README. 
 
 - The content of **this** README would be in your GitHub page if there's no index.html file in the main folder.
 
