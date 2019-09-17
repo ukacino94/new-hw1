@@ -1,6 +1,6 @@
 # Report 
 
-** Important Note:**
+**Important Note:**
 
 - The README page is the only page you can interact, so you may want to include all resources/links on this page :)
 
