@@ -23,7 +23,7 @@ If there's no index.html file in the main folder (which should be the case), the
 
 ![Elevator_Image_Huyen](https://i.imgur.com/D8NAp0d.jpg)
 
-⋅⋅*  Show a gif image of the control interface in operation.
+-  Show a gif image of the control interface in operation.
 
 ![Elevator_Gif_Huyen](https://media.giphy.com/media/fAbByUYxLUGE6ygSvZ/giphy.gif)
 
