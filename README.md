@@ -1,10 +1,12 @@
 # Report
 
-Note: The README page is the only page you can interact, so you may want to include all resources/links on this page :)
+# Note: 
 
-Go to Settings -> GitHub Pages -> Source: Master branch, to deploy your GitHub page. 
+- The README page is the only page you can interact, so you may want to include all resources/links on this page :)
 
-If there's no index.html file in the main folder (which should be the case), the content of **this** README would be in your page.
+- Go to Settings -> GitHub Pages -> Source: Master branch, to deploy your GitHub page. 
+
+- If there's no index.html file in the main folder (which **should** be the case), the content of **this** README would be in your page.
 
 ---
 
@@ -14,7 +16,7 @@ If there's no index.html file in the main folder (which should be the case), the
 
 [GitHub repository](https://github.com/nnhuyen/new-hw1) (e.g. https://github.com/nnhuyen/new-hw1)
 
-[Demo](https://nnhuyen.github.io/new-hw1) (e.g. https://nnhuyen.github.io/new-hw1/demo.html, the demo file should not be name index.html)
+[Demo](https://nnhuyen.github.io/new-hw1) (e.g. https://nnhuyen.github.io/new-hw1/demo.html, the demo file **should not** be name index.html)
 
 [Video (optional)](https://www.youtube.com/watch?v=uilkmUoXoLU)
 
