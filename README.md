@@ -6,7 +6,7 @@
 
 - Go to Settings -> GitHub Pages -> Source: Master branch, to deploy your GitHub page from README. 
 
-- If there's no index.html file in the main folder (which **should** be the case), the content of **this** README would be in your page.
+- The content of **this** README would be in your GitHub page if there's no index.html file in the main folder.
 
 ---
 
