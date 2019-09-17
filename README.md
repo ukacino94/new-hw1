@@ -15,6 +15,8 @@ If there's no index.html file in the main folder (which should be the case), the
 
 ### Example of Elevator
 
+⋅⋅* Unordered sub-list. 
+
 ### Getting C:
 ⋅⋅* Find an elevator in the apartment/campus/hotel. Only one example for each student: The elevator in the ECE building
 
