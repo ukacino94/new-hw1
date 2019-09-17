@@ -9,9 +9,9 @@ If there's no index.html file in the main folder (which should be the case), the
 
 
 ### Links
-[Presentation/Demo](https://nnhuyen.github.io/HCI-HW1-Elevator/demo.html)
+[Presentation page](https://nnhuyen.github.io/new-hw1) (e.g. https://nnhuyen.github.io/new-hw1, contains content of this README)
 
-[GitHub repository](https://github.com/nnhuyen/new-hw1)
+[GitHub repository](https://github.com/nnhuyen/new-hw1) (e.g. https://github.com/nnhuyen/new-hw1)
 
 [Video (optional)](https://www.youtube.com/watch?v=uilkmUoXoLU)
 
