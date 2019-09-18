@@ -20,7 +20,8 @@ The report starts from this line
 
 [Demo](https://nnhuyen.github.io/new-hw1) (e.g. https://nnhuyen.github.io/new-hw1/demo.html, the demo file **should not** be named index.html)
 
-[Video (optional)](https://www.youtube.com/watch?v=uilkmUoXoLU)
+[Video (optional)](http://img.youtube.com/vi/uilkmUoXoLU/0.jpg)](http://www.youtube.com/watch?v=uilkmUoXoLU)
+
 
 
 ### Getting C:
