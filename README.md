@@ -18,7 +18,7 @@ The report starts from this line
 
 [GitHub repository](https://github.com/nnhuyen/new-hw1) (e.g. https://github.com/nnhuyen/new-hw1)
 
-[Demo](https://nnhuyen.github.io/new-hw1) (e.g. https://nnhuyen.github.io/new-hw1/demo.html, the demo file **should not** be named index.html)
+[Demo](https://nnhuyen.github.io/new-hw1/demo.html) (e.g. https://nnhuyen.github.io/new-hw1/demo.html, the demo file **should not** be named index.html)
 
 [Video (optional)](https://www.youtube.com/embed/uilkmUoXoLU) (e.g. https://www.youtube.com/embed/uilkmUoXoLU - embed link)
 
